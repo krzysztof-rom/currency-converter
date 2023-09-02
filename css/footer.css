@@ -1,0 +1,8 @@
+.footer__info {
+  font-size: 17px;
+  font-style: italic;
+  background-color: hsl(0, 0%, 86%);
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+}

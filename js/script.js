@@ -29,5 +29,5 @@ formElement.addEventListener("submit", (event) => {
       break;
   }
 
-  resultElement.innerHTML = `${result.toFixed(2)}${currency}`;
+  resultElement.innerHTML = `${result.toFixed(2)} ${currency}`;
 });
